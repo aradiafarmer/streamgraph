@@ -4,7 +4,7 @@
 
 visualizing the `image.jpg` here to illustrator the type of geovisualization
 
-A short introduction to this geoviz module.
+A short introduction to this geoviz module: For continuous data such as time series
 
 ## 1\. Set up the workspace
 
@@ -19,7 +19,11 @@ A short introduction to this geoviz module.
 ## 4\. More examples of similiar geovisualizations
 
 ## Acknowledgement
-Mike Bostock created the template for this geovis
+Mike Bostock created the template for this geovis.
+<br>
+Streamgraph algorithm, colors, and data generation inspired by Byron and Wattenberg.
+<br>
+Released under the GNU General Public License, version 3.
 ## References
 
 
