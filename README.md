@@ -1,6 +1,6 @@
 # Title
 
-**geoviz type** | **last updated** | **applicable data types** | **Contributors:** [author](https://github.com/xxxx)
+**Streamgraph** | **last updated** | **applicable data types** | **Contributors:** (https://github.com/aradiafarmer)
 
 visualizing the `image.jpg` here to illustrator the type of geovisualization
 
@@ -19,7 +19,7 @@ A short introduction to this geoviz module.
 ## 4\. More examples of similiar geovisualizations
 
 ## Acknowledgement
-
+Mike Bostock created the template for this geovis
 ## References
 
 
