@@ -1,12 +1,15 @@
-frequency,word,category
-41,beer,1
-21,pure,1
-10,sustainable1,
-8,clean,1
-5,quality,1
-2,taste,1
-10,sewage,0
-8,wastewater,0
-5,poo,0
-3,effluent,0
-1,toilet,0
+before	word	after		
+12	sewage	3		
+9	wastewater	5		
+4	poo	0		
+1	effluent	1		
+2	toilet	1		
+				
+7	quality	5		
+12	pure	7		
+10	taste	8		
+3	sustainable	0		
+0	safety	0		
+				
+				
+				

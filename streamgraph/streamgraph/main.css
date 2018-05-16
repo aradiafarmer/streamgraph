@@ -1,0 +1,34 @@
+button {
+    background-color: #008CBA; /* Blue */
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    position: relative;
+    left: -390px;
+    bottom: 10px;
+}
+
+svg {
+    width:400px;
+    height:400px;
+}
+
+.colors{
+
+    color1: rgba(220, 68, 4, 1);
+
+    color2: rgba(243, 187, 59, 1);
+
+    color3: rgba(220, 219, 219, 1);
+
+    color4: rgba(132, 174, 200, 1);
+
+    color5: rgba(85, 129, 186, 1);
+}
+
